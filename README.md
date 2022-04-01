@@ -100,5 +100,5 @@ OWNER_ID=Your_Owner_ID
 ![see](https://i.imgur.com/4GGIXyZ.png)
 ![see](https://i.imgur.com/poraMNP.png)
 
-## Created by [Adivise](https://github.com/Adivise)
-- Don't forget to ⭐ him!
+## Coded by [Adivise](https://github.com/Adivise)
+- Don't forget to ⭐ him/her!
